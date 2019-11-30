@@ -1,4 +1,5 @@
-github.com/xytan0056/depwithoutgen v0.0.0-20191130085409-6bf05a9d4168 h1:VcgbRqQhYH03RvKkW9/CVhqyVPX5lFcZ4MXHtGVQHZs=
-github.com/xytan0056/depwithoutgen v0.0.0-20191130085409-6bf05a9d4168/go.mod h1:EmHqfkulXhYj5U47sBppAhVk+nAdGLLrd7JPDqJBae4=
-github.com/xytan0056/depwithoutgen v0.0.0-20191130091848-792c8702887c h1:xSX5AxtvNTGWVAI0umRjEdgv7ABWYVnI0YWZDUW3A1k=
-github.com/xytan0056/depwithoutgen v0.0.0-20191130091848-792c8702887c/go.mod h1:EmHqfkulXhYj5U47sBppAhVk+nAdGLLrd7JPDqJBae4=
+github.com/xytan0056/depwithgen v0.0.0-20191130201644-5afdc6f2a0bb/go.mod h1:56lRZaxq4savYThG2gLOSVOroxX6ORv7Bluwx8jE+Dc=
+github.com/xytan0056/depwithoutgen v0.0.0-20191130201741-4585ffc31226 h1:vmfL17r51Uz0dhkPBY1yMawM5kn17qL+gQ57zCQQ+KY=
+github.com/xytan0056/depwithoutgen v0.0.0-20191130201741-4585ffc31226/go.mod h1:EmHqfkulXhYj5U47sBppAhVk+nAdGLLrd7JPDqJBae4=
+github.com/xytan0056/depwithoutgen v0.0.0-20191130202725-86f4a2a939eb h1:Noo4QdhR7JTTvI8l6m1xxdjuRaYBSXpFhFQPoeQk+3w=
+github.com/xytan0056/depwithoutgen v0.0.0-20191130202725-86f4a2a939eb/go.mod h1:EmHqfkulXhYj5U47sBppAhVk+nAdGLLrd7JPDqJBae4=
